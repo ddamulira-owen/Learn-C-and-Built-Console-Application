@@ -49,7 +49,7 @@ This is a console application for managing a national water billing payment syst
 2. **Open the project in Visual Studio**:
     - Open Visual Studio.
     - Click on "Open a project or solution".
-    - Navigate to the cloned repository folder and select the `[WaterBillingSystem.sln](https://github.com/ddamulira-owen/Learn-C-and-Built-Console-Application/blob/main/WaterBillingSystem/WaterBillingSystem.sln)` file.
+    - Navigate to the cloned repository folder and select the [WaterBillingSystem.sln](https://github.com/ddamulira-owen/Learn-C-and-Built-Console-Application/blob/main/WaterBillingSystem/WaterBillingSystem.sln) file.
 
 3. **Run the application**:
     - Press `F5` or click on the "Start" button in Visual Studio to run the application.
