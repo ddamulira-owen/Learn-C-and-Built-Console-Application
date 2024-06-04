@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\bin\Debug\net8.0\WaterBillingSystem.exe
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\bin\Debug\net8.0\WaterBillingSystem.deps.json
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\bin\Debug\net8.0\WaterBillingSystem.runtimeconfig.json
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\bin\Debug\net8.0\WaterBillingSystem.dll
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\bin\Debug\net8.0\WaterBillingSystem.pdb
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.dll
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\refint\WaterBillingSystem.dll
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.pdb
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\WaterBillingSystem.genruntimeconfig.cache
+C:\Users\user\Desktop\YR 3\sem 2\NWSC Internship\C learning\WaterBillingSystem\WaterBillingSystem\obj\Debug\net8.0\ref\WaterBillingSystem.dll
