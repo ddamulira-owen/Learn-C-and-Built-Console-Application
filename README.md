@@ -42,8 +42,8 @@ This is a console application for managing a national water billing payment syst
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/water-billing-system.git
-    cd water-billing-system
+    git clone https://github.com/ddamulira-owen/Learn-C-and-Built-Console-Application.git
+    cd WaterBillingSystem
     ```
 
 2. **Open the project in Visual Studio**:
